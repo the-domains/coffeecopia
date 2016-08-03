@@ -1,0 +1,14 @@
+layout_spectrum: 0.2691158545203507
+typography_spectrum: 0.05354078277014196
+color:
+  brandStrength: 0.18085469445213675
+  lightness: 0.6891730593051761
+  saturation: 0.6623841137625277
+  rhythmicContrast: 0.9737174003385007
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: coffeecopia
